@@ -8,10 +8,17 @@ Submitted by: Jonathan Chery
 
 The following **technologies** were used to complete this website:
 
+* Javascript
+* Bootstrap
 * MongoDB
 * Express.js
 * Angular.js
 * Node.js
+
+## Included Package(s)
+
+* Mean currently uses gulp as a build tool and bower to manage frontend packages. ``` $ npm install -g gulp ``` and ``` bower $ npm install -g bower ```
+* Added a list od dependencies and saved it within my directory ``` $ npm install express --save ```
 
 ## License
 
